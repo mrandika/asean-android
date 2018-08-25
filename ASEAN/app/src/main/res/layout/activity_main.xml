@@ -1,18 +1,262 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_alignParentTop="false"
+    android:layout_margin="5dp"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:orientation="vertical">
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
 
-</android.support.constraint.ConstraintLayout>
+        </android.support.v7.widget.CardView>
+
+        <ImageView
+            android:id="@+id/logo_asean"
+            android:layout_width="256px"
+            android:layout_height="256px"
+            android:layout_gravity="center_horizontal"
+            app:srcCompat="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/desc_asean"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Perhimpunan Bangsa-Bangsa Asia Tenggara (Perbara) atau lebih populer dengan sebutan Association of Southeast Asian Nations (ASEAN) merupakan sebuah organisasi geo-politik dan ekonomi dari negara-negara di kawasan Asia Tenggara, yang didirikan di Bangkok, 8 Agustus 1967 berdasarkan Deklarasi Bangkok oleh Indonesia, Malaysia, Filipina, Singapura, dan Thailand. Organisasi ini bertujuan untuk meningkatkan pertumbuhan ekonomi, kemajuan sosial, dan pengembangan kebudayaan negara-negara anggotanya, memajukan perdamaian dan stabilitas di tingkat regionalnya, serta meningkatkan kesempatan untuk membahas perbedaan di antara anggotanya dengan damai."
+            android:textAllCaps="false"
+            android:textColor="@android:color/black" />
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?attr/selectableItemBackground"
+            app:cardElevation="5dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/id_bendera1"
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentBottom="false"
+                    android:layout_alignParentEnd="false"
+                    android:layout_alignParentLeft="false"
+                    android:layout_alignParentRight="false"
+                    android:layout_alignParentStart="false"
+                    android:layout_alignParentTop="false"
+                    android:layout_centerHorizontal="false"
+                    android:layout_centerInParent="false"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="5dp"
+                    app:srcCompat="@drawable/philipines" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toEndOf="@+id/id_bendera1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/nama_negara1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="Filipina"
+                        android:textColor="@android:color/black" />
+
+                    <TextView
+                        android:id="@+id/luas_negara1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="300.000 km2"
+                        android:textColor="@android:color/black" />
+
+                    <TextView
+                        android:id="@+id/gabung_negara1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="8 Agustus 1967"
+                        android:textColor="@android:color/black" />
+
+                    <TextView
+                        android:id="@+id/desc_singkat_negara1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="deskripsi singkat pilipina lah ya gimana isi"
+                        android:textColor="@android:color/black" />
+                </LinearLayout>
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?attr/selectableItemBackground"
+            app:cardElevation="5dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/id_bendera2"
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentBottom="false"
+                    android:layout_alignParentEnd="false"
+                    android:layout_alignParentLeft="false"
+                    android:layout_alignParentRight="false"
+                    android:layout_alignParentStart="false"
+                    android:layout_alignParentTop="false"
+                    android:layout_centerHorizontal="false"
+                    android:layout_centerInParent="false"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="5dp"
+                    app:srcCompat="@drawable/indonesia" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toEndOf="@+id/id_bendera2"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/nama_negara2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="Indonesia"
+                        android:textColor="@android:color/black" />
+
+                    <TextView
+                        android:id="@+id/luas_negara2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="1.904.569 km2"
+                        android:textColor="@android:color/black" />
+
+                    <TextView
+                        android:id="@+id/gabung_negara2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="8 Agustus 1967"
+                        android:textColor="@android:color/black" />
+
+                    <TextView
+                        android:id="@+id/desc_singkat_negara2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:text="deskripsi singkat indonesia lah ya gimana isi"
+                        android:textColor="@android:color/black" />
+                </LinearLayout>
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?attr/selectableItemBackground"
+            app:cardElevation="5dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/id_bendera3"
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentBottom="false"
+                    android:layout_alignParentEnd="false"
+                    android:layout_alignParentLeft="false"
+                    android:layout_alignParentRight="false"
+                    android:layout_alignParentStart="false"
+                    android:layout_alignParentTop="false"
+                    android:layout_centerHorizontal="false"
+                    android:layout_centerInParent="false"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="5dp"
+                    app:srcCompat="@drawable/malaysia" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toEndOf="@+id/id_bendera3"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/nama_negara3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignTop="@+id/id_bendera3"
+                        android:layout_margin="5dp"
+                        android:layout_toEndOf="@+id/id_bendera3"
+                        android:text="Malaysia"
+                        android:textColor="@android:color/black" />
+
+                    <TextView
+                        android:id="@+id/luas_negara3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/gabung_negara3"
+                        android:layout_margin="5dp"
+                        android:layout_toEndOf="@+id/id_bendera3"
+                        android:text="329.847 km2"
+                        android:textColor="@android:color/black" />
+
+                    <TextView
+                        android:id="@+id/gabung_negara3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/nama_negara3"
+                        android:layout_margin="5dp"
+                        android:layout_toEndOf="@+id/id_bendera3"
+                        android:text="8 Agustus 1967"
+                        android:textColor="@android:color/black" />
+
+                    <TextView
+                        android:id="@+id/desc_singkat_negara3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/luas_negara3"
+                        android:layout_margin="5dp"
+                        android:layout_toEndOf="@+id/id_bendera3"
+                        android:text="deskripsi singkat malaysia lah ya gimana isi"
+                        android:textColor="@android:color/black" />
+                </LinearLayout>
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+</ScrollView>
