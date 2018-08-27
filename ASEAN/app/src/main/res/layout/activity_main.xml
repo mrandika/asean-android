@@ -94,7 +94,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
-                        android:text="deskripsi singkat pilipina lah ya gimana isi"
+                        android:text="Filipina adalah sebuah negara republik di Asia Tenggara, sebelah utara Indonesia, dan Malaysia. Dan beribu kota manila."
                         android:textColor="@android:color/black" />
                 </LinearLayout>
 
@@ -166,7 +166,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
-                        android:text="deskripsi singkat indonesia lah ya gimana isi"
+                        android:text="Indonesia adalah negara di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Australia, serta antara Samudra Pasifik dan Samudra Hindia. Dan beribu kota di jakarta."
                         android:textColor="@android:color/black" />
                 </LinearLayout>
 
@@ -238,7 +238,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
-                        android:text="deskripsi singkat malaysia lah ya gimana isi"
+                        android:text="Malaysia adalah sebuah negara federal yang terdiri dari tiga belas negeri (negara bagian) dan tiga wilayah federal di Asia Tenggara. Dan beribu kota kuala lumpur."
                         android:textColor="@android:color/black" />
                 </LinearLayout>
 
@@ -310,7 +310,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
-                        android:text="deskripsi singkat singapura lah ya gimana isi"
+                        android:text="Singapura adalah sebuah negara pulau di lepas ujung selatan Semenanjung Malaya, 137 kilometer (85 mi) di utara khatulistiwa di Asia Tenggara. Dan beribu kota Singapura."
                         android:textColor="@android:color/black" />
                 </LinearLayout>
 
@@ -382,7 +382,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
-                        android:text="deskripsi singkat thailand lah ya gimana isi"
+                        android:text="Thailand adalah sebuah negara di Asia Tenggara yang berbatasan dengan Laos dan Kamboja di timur, Malaysia dan Teluk Siam di selatan. Dan beribu kota Bangkok."
                         android:textColor="@android:color/black" />
                 </LinearLayout>
 
@@ -454,7 +454,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
-                        android:text="deskripsi singkat brunei lah ya gimana isi"
+                        android:text="Brunei Darrusalam adalah negara berdaulat di Asia Tenggara yang terletak di pantai utara pulau Kalimantan. Dan beribu kota Bandar Seri Begawan."
                         android:textColor="@android:color/black" />
                 </LinearLayout>
 
@@ -526,7 +526,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
-                        android:text="deskripsi singkat vietnam lah ya gimana isi"
+                        android:text="Vietnam adalah negara paling timur di Semenanjung Indochina di Asia Tenggara. Dan beribu kota Hanoi."
                         android:textColor="@android:color/black" />
                 </LinearLayout>
 
@@ -598,7 +598,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
-                        android:text="deskripsi singkat laos lah ya gimana isi"
+                        android:text="Laos adalah negara yang terkurung daratan di Asia Tenggara, berbatasan dengan Myanmar dan Republik Rakyat Tiongkok di sebelah barat laut. Dan beribu kota Vientiane."
                         android:textColor="@android:color/black" />
                 </LinearLayout>
 
@@ -670,7 +670,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
-                        android:text="deskripsi singkat myanmar lah ya gimana isi"
+                        android:text="Myanmar adalah sebuah negara berdaulat di Asia Tenggara. Myanmar berbatasan dengan India dan Bangladesh di sebelah barat. Dan beribu kota Naypyidaw."
                         android:textColor="@android:color/black" />
                 </LinearLayout>
 
@@ -742,7 +742,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
-                        android:text="deskripsi singkat kamboja lah ya gimana isi"
+                        android:text="Kamboja adalah sebuah negara di Asia Tenggara. Luas totalnya adalah 181.035 km2. Dan beribu kota Phnom Penh."
                         android:textColor="@android:color/black" />
                 </LinearLayout>
 
