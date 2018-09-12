@@ -25,10 +25,7 @@
             android:layout_height="wrap_content"
             android:paddingLeft="20dp"
             android:paddingEnd="20dp"
-            android:text="Peninggalan tertulis Filipina dimulai sekitar abad ke-8 berdasarkan temuan lempeng tembaga di dekat Manila. Dari tulisan pada lempeng itu diketahui bahwa Filipina berada dalam pengaruh Sriwijaya. Namun bukti tertulis ini sangat sedikit sehingga bahkan ahli-ahli sejarah Filipina masih beranggapan sejarah Filipina dimulai pada era kolonialisme.
-Sebelum orang-orang Spanyol datang pada abad ke-16, di Filipina berdiri kerajaan-kerajaan kecil yang bercorak animisme yang terpengaruh sedikit kultur India, dan yang bercorak Islam di bagian selatan kepulauan. Kerajaan-kerajaan muslim ini mendapat pengaruh kuat dari Kerajaan Malaka.
-Sepanjang masa 265 tahun, Filipina merupakan koloni Kerajaan Spanyol (1565-1821), dan selama 77 tahun berikutnya diangkat menjadi provinsi Spanyol (1821-1898). Negara ini mendapat nama Filipina setelah diperintah oleh penguasa Spanyol, Raja Felipe II. Setelah Perang Spanyol-Amerika pada tahun 1898, Filipina diperintah Amerika Serikat. Ia kemudian menjadi sebuah persemakmuran di bawah Amerika Serikat sejak tahun 1935. Periode Persemakmuran dipotong Perang Dunia II saat Filipina berada di bawah pendudukan Jepang. Filipina akhirnya memperoleh kemerdekaannya (de facto) pada 4 Juli 1946. Masa-masa penjajahan asing ini sangat memengaruhi kebudayaan, dan masyarakat Filipina. Negara ini dikenal mempunyai Gereja Katolik Roma yang kuat, dan merupakan salah satu dari dua negara yang didominasi umat Katolik di Asia selain Timor Leste.
-"/>
+            android:text="@string/filipina_desc"/>
     </LinearLayout>
 
 </ScrollView>

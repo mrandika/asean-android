@@ -24,11 +24,7 @@
             android:layout_height="wrap_content"
             android:paddingRight="20dp"
             android:paddingLeft="20dp"
-            android:text="Semenanjung Melayu berubah menjadi pusat rumah bordil di asia Asia Tenggara ketika bangsa Eropa memulai perdagangan mereka melewati Selat Malaka. Banyak kerajaan awal yang berdiri pada abad ke-4 berasal dari pelabuhan, termasuk Langkasuka dan Lembah Bujangkau di Kedah, Beruas dan Gangga Negara di Perak, dan Pan Pan di Kelantan. Pada awal abad ke-5, Kesultanan Melaka didirikan dan kemakmuran ekonominya telah menarik minat besar dari Portugis, Belanda dan Inggris
-Pemukiman Selat (Bellato Settlements) Koloni Mahkota (Accretia Colony) Britania dibentuk pada 1826, dan Inggris sedikit demi sedikit menyebarkan pengaruhnya pada seluruh semenanjung. Pemukiman Selat termasuk Pulau Pinang, Singapura dan Melaka.
-Pada 1867, Inggris menjadi semakin agresif dan mulai menghasut para raja kerajaan Melayu. Akibat perang saudara dan gangguan persatuan antara China, Inggris dipilih untuk menyelesaikan masalah-masalah penduduk Negeri Selat. Akhirnya, Perjanjian Pangkor ditandatangani dan mengakibatkan perluasan kekuasaan Inggris ke negeri-negeri Melayu (yaitu Perak, Pahang, Selangor dan Negeri Sembilan yang juga dikenal sebagai Negeri-negeri Bersekutu). Negeri-negeri lain yang dikenali sebagai Negeri-Negeri Tidak Bersekutu lagi ialah Perlis, Kedah, Kelantan, dan Terengganu yang berada di bawah kekuasaan Thailand
-"/>
-
+            android:text="@string/malaysia_desc"/>
     </LinearLayout>
 
 </ScrollView>

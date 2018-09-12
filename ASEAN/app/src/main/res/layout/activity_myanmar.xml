@@ -24,14 +24,7 @@
             android:layout_height="wrap_content"
             android:paddingLeft="20dp"
             android:paddingRight="20dp"
-            android:text="Sejarah Myanmar atau Sejarah Birma meliputi kurun waktu sejak berdirinya pemukiman-pemukiman pertama manusia yang telah diketahui pada 13.000 tahun yang lampau sampai sekarang. Menurut catatan sejarah, para pemukim pertama di negeri ini adalah orang-orang Pyu, suku bangsa penutur bahasa Tibeto-Birma dan pemeluk agama Buddha Theravada yang mendirikan sejumlah negara kota sampai jauh ke Pyay di kawasan selatan Birma.
-Suku bangsa lain, yakni orang Bamar, memasuki daerah hulu Sungai Irawadi pada permulaan abad ke-9. Kelompok ini kelak mendirikan Kerajaan Pagan (1044–1287) yang pertama kali mempersatukan kawasan Lembah Sungai Irawadi dan sekitarnya. Selama kurun waktu ini, bahasa Birma dan budaya Bamar lambat laun menggantikan bahasa dan budaya Pyu. Seusai invasi Monggol pertama atas Birma pada 1287, sejumlah kerajaan kecil bermunculan di negeri ini, yang paling menonjol di antaranya adalah Kerajaan Awa, Kerajaan Hanthawadi, Kerajaan Mrauk U, dan negara-negara orang Shan. Kerajaan-kerajaan kecil ini tak henti-hentinya bergonta-ganti sekutu dan saling memerangi.
-Pada paruh kedua abad ke-16, raja-raja wangsa Taungu (1510–1752) mempersatukan kembali negeri ini, dan membangun kemaharajaan terbesar dalam sejarah Asia Tenggara yang berdiri selama kurun waktu yang singkat. Raja-raja wangsa Taungu memprakarsai pembaharuan-pembaharuan penting di bidang administrasi dan perekonomian yang menghasilkan sebuah kerajaan yang lebih kecil namun lebih tenteram dan makmur pada abad ke-17 dan permulaan abad ke-18. Pada paruh kedua abad ke-18, raja-raja wangsa Konbaung (1752–1885) memulihkan kebesaran kerajaan ini, serta melanjutkan karya pembaharuan raja-raja wangsa Taungu yang membuat kerajaan ini menjadi pusat mandala kekuasaan bagi negeri-negeri di sekitarnya dan menjadi salah satu negara yang paling melek aksara di Asia. Raja-raja wangsa Konbaung juga berperang melawan semua negara tetangganya. Perang Inggris-Birma (1824–1885) akhirnya menundukkan negeri ini di bawah penjajahan Britania.
-Penjajahan Britania menimbulkan sejumlah perubahan mendalam di bidang sosial, ekonomi, budaya, dan administrasi yang sepenuhnya mentransformasi masyarakat yang mula-mula bersifat agraris ini. Selain itu, pemerintah penjajah Britania menonjol-nonjolkan perbedaan-perbedaan antarsuku bangsa yang sangat beragam di Birma. Sejak merdeka pada 1948, Birma harus berkutat dengan salah satu perang saudara terlama yang tak kunjung terselesaikan. Negara ini dikuasai pemerintahan militer dalam berbagai samarannya sejak 1962 sampai 2010, dan sepanjang kurun waktu itu lambat laun merosot menjadi salah satu negara terbelakang di dunia
-"/>
-
-
+            android:text="@string/myanmar_desc"/>
     </LinearLayout>
-
 
 </ScrollView>

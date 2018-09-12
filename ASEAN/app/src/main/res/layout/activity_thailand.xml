@@ -24,15 +24,7 @@
             android:layout_height="wrap_content"
             android:paddingLeft="20dp"
             android:paddingRight="20dp"
-            android:text="Asal mula Kerajaan Thai secara tradisional dikaitkan dengan sebuah kerajaan yang berumur pendek, Kerajaan Sukhothai yang didirikan pada tahun 1238. Kerajaan ini kemudian diteruskan Kerajaan Ayutthaya yang didirikan pada pertengahan abad ke-14 dan berukuran lebih besar dibandingkan Sukhothai. Kebudayaan Kerajaan Thai dipengaruhi dengan kuat oleh Tiongkok dan India. Hubungan dengan beberapa negara besar Eropa dimulai pada abad ke-16 namun meskipun mengalami tekanan yang kuat, Kerajaan Thai tetap bertahan sebagai satu-satunya negara di Asia Tenggara yang tidak pernah dijajah oleh negara Eropa[4], (namun pernah diduduki oleh tentara Jepang sebagai Teritori Imperial. Oleh karena mendapat pengaruh dan tekanan bangsa Barat yang mengakibatkan berbagai perubahan pada abad ke-19 maka diberikan banyak kelonggaran bagi pedagang-pedagang Britania di Thailand.
-Sebuah revolusi tak berdarah pada tahun 1932 menyebabkan dimulainya monarki konstitusional. Sebelumnya dikenal dengan nama Siam, negara ini mengganti nama internasionalnya menjadi "Thailand" pada tahun 1939 dan untuk seterusnya, setelah pernah sekali mengganti kembali ke nama lamanya pasca-Perang Dunia II. Pada perang tersebut, Kerajaan Thai bersekutu dengan Jepang; tetapi saat Perang Dunia II berakhir, Kerajaan Thai menjadi sekutu Amerika Serikat. Beberapa kudeta terjadi dalam tahun-tahun setelah berakhirnya perang, namun Kerajaan Thai mulai bergerak ke arah demokrasi sejak tahun 1980-an.
-Kalender Kerajaan Thai didasarkan pada Tahun Buddha, yang lebih cepat 543 tahun dibandingkan kalender Barat. Tahun 2000 Masehi sama dengan tahun 2543 dalam kalender Kerajaan Thai.
-Pada tanggal 26 Desember 2004, pesisir barat Kerajaan Thai diterjang tsunami setinggi 10 meter setelah terjadinya gempa bumi Samudra Hindia 2004, menewaskan 5.000 orang di Kerajaan Thai, dan setengahnya merupakan wisatawan.
-Pada awal 2005 terjadi sebuah tragedi di Kerajaan Thai Selatan yang mempunyai populasi dengan mayoritas Muslim. Sekitar 70 orang terbunuh akibat kekerasan yang dilakukan oleh rezim Shinawatra. Banyak negara yang mengecam keras tragedi ini. Namun dalam pemilihan kepala pemerintahan, Thaksin Shinawatra kembali memerintah negara ini untuk empat tahun berikutnya
-"/>
-
-
+            android:text="@string/thailand_desc"/>
     </LinearLayout>
-
 
 </ScrollView>
