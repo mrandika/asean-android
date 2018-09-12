@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".kamboja">
 
-</android.support.constraint.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sejarah negara kamboja"
+            android:textSize="40px"
+            android:textAlignment="center"
+            android:paddingBottom="30dp"
+            android:paddingTop="30dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Perkembangan peradaban Kamboja terjadi pada abad 1 Masehi. Selama abad ke-3,4 dan 5 Masehi, negara Funan dan Chenla bersatu untuk membangun daerah Kamboja. Negara-negara ini mempunyai hubungan dekat dengan China dan India. Kekuasaan dua negara ini runtuh ketika Kerajaan Khmer dibangun dan berkuasa pada abad ke-9 sampai abad ke-13.
+Kerajaan Khmer masih bertahan hingga abad ke-15. Ibukota Kerajaan Khmer terletak di Angkor, sebuah daerah yang dibangun pada masa kejayaan Khmer. Angkor Wat, yang dibangun juga pada saat itu, menjadi simbol bagi kekuasaan Khmer.
+Pada tahun 1432, Khmer dikuasai oleh Kerajaan Thai. Dewan Kerajaan Khmer memindahkan ibukota dari Angkor ke Lovek, dimana Kerajaan mendapat keuntungan besar karena Lovek adalah bandar pelabuhan. Pertahanan Khmer di Lovek akhirnya bisa dikuasai oleh Thai dan Vietnam, dan juga berakibat pada hilangnya sebagian besar daerah Khmer. Peristiwa ini terjadi pada tahun 1594. Selama 3 abad berikutnya, Khmer dikuasai oleh Raja-raja dari Thai dan Vietnam secara bergilir.
+Pada tahun 1863, Raja Norodom, yang dilantik oleh Thai, mencari perlindungan kepada Perancis. Pada tahun 1867, Raja Norodom menandatangani perjanjian dengan pihak Perancis yang isinya memberikan hak kontrol provinsi Battambang dan Siem Reap yang menjadi bagian Thai. Akhirnya, kedua daerah ini diberikan pada Kamboja pada tahun 1906 pada perjanjian perbatasan oleh Perancis dan Thai.
+Kamboja dijadikan daerah Protektorat oleh Perancis dari tahun 1863 sampai dengan 1953, sebagai daerah dari Koloni Indochina. Setelah penjajahan Jepang pada 1940-an, akhirnya Kamboja meraih kemerdekaannya dari Perancis pada 9 November 1953. Kamboja menjadi sebuah kerajaan konstitusional dibawah kepemimpinan Raja Norodom Sihanouk.
+Pada saat Perang Vietnam tahun 1960-an, Kerajaan Kamboja memilih untuk netral. Hal ini tidak dibiarkan oleh petinggi militer, yaitu Jendral Lon Nol dan Pangeran Sirik Matak yang merupakan aliansi pro-AS untuk menyingkirkan Norodom Sihanouk dari kekuasaannya. Dari Beijing, Norodom Sihanouk memutuskan untuk beraliansi dengan gerombolan Khmer Merah, yang bertujuan untuk menguasai kembali tahtanya yang direbut oleh Lon Nol. Hal inilah yang memicu perang saudara timbul di Kamboja.
+Khmer Merah akhirnya menguasai daerah ini pada tahun 1975, dan mengubah format Kerajaan menjadi sebuah Republik Demokratik Kamboja yang dipimpin oleh Pol Pot. Mereka dengan segera memindahkan masyarakat perkotaan ke wilayah pedesaan untuk dipekerjakan di pertanian kolektif. Pemerintah yang baru ini menginginkan hasil pertanian yang sama dengan yang terjadi pada abad 11. Mereka menolak pengobatan Barat yang berakibat rakyat Kamboja kelaparan dan tidak ada obat sama sekali di Kamboja.
+Pada November 1978, Vietnam menyerbu RD Kamboja untuk menghentikan genosida besar-besaran yang terjadi di Kamboja. Akhirnya, pada tahun 1989, perdamaian mulai digencarkan antara kedua pihak yang bertikai ini di Paris. PBB memberi mandat untuk mengadakan gencatan senjata antara pihak Norodom Sihanouk dan Lon Nol.
+Sekarang, Kamboja mulai berkembang berkat bantuan dari banyak pihak asing setelah perang, walaupun kestabilan negara ini kembali tergoncang setelah sebuah kudeta yang gagal terjadi pada tahun 1997
+"/>
+
+    </LinearLayout>
+
+</ScrollView>

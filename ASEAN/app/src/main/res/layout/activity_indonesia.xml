@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".indonesia">
 
-</android.support.constraint.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sejarah negara indonesia"
+            android:textAlignment="center"
+            android:textSize="40px"
+            android:paddingTop="30dp"
+            android:paddingBottom="30dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingEnd="20dp"
+            android:text="Para cendekiawan India telah menulis tentang Dwipantara atau kerajaan Hindu Jawa Dwipa di pulau Jawa dan Sumatra atau Swarna dwipa sekitar 200 SM. Bukti fisik awal yang menyebutkan mengenai adanya dua kerajaan bercorak Hinduisme pada abad ke-5, yaitu: Kerajaan Tarumanagara yang menguasai Jawa Barat dan Kerajaan Kutai di pesisir Sungai Mahakam, Kalimantan. Pada tahun 425 agama Buddha telah mencapai wilayah tersebut.
+Di saat Eropa memasuki masa Renaisans, Nusantara telah mempunyai warisan peradaban berusia ribuan tahun dengan dua kerajaan besar yaitu Sriwijaya di Sumatra dan Majapahit di Jawa, ditambah dengan puluhan kerajaan kecil yang sering kali menjadi vazal tetangganya yang lebih kuat atau saling terhubung dalam semacam ikatan perdagangan (seperti di Maluku).
+Islam sebagai sebuah pemerintahan hadir di Indonesia sekitar abad ke-12, namun sebenarnya Islam sudah sudah masuk ke Indonesia pada abad 7 Masehi. Saat itu sudah ada jalur pelayaran yang ramai dan bersifat internasional melalui Selat Malaka yang menghubungkan Dinasti Tang di Cina, Sriwijaya di Asia Tenggara dan Bani Umayyah di Asia Barat sejak abad 7.[4]
+Menurut sumber-sumber Cina menjelang akhir perempatan ketiga abad 7, seorang pedagang Arab menjadi pemimpin permukiman Arab muslim di pesisir pantai Sumatera. Islam pun memberikan pengaruh kepada institusi politik yang ada. Hal ini tampak pada Tahun 100 H (718 M) Raja Sriwijaya Jambi yang bernama Srindravarman mengirim surat kepada Khalifah Umar bin Abdul Aziz dari Kekhalifahan Bani Umayyah meminta dikirimkan da'i yang bisa menjelaskan Islam kepadanya. Surat itu berbunyi: “Dari Raja di Raja yang adalah keturunan seribu raja, yang isterinya juga cucu seribu raja, yang di dalam kandang binatangnya terdapat seribu gajah, yang di wilayahnya terdapat dua sungai yang mengairi pohon gaharu, bumbu-bumbu wewangian, pala dan kapur barus yang semerbak wanginya hingga menjangkau jarak 12 mil, kepada Raja Arab yang tidak menyekutukan tuhan-tuhan lain dengan Allah. Saya telah mengirimkan kepada anda hadiah, yang sebenarnya merupakan hadiah yang tak begitu banyak, tetapi sekadar tanda persahabatan. Saya ingin Anda mengirimkan kepada saya seseorang yang dapat mengajarkan Islam kepada saya dan menjelaskan kepada saya tentang hukum-hukumnya.” Dua tahun kemudian, yakni tahun 720 M, Raja Srindravarman, yang semula Hindu, masuk Islam. Sriwijaya Jambi pun dikenal dengan nama 'Sribuza Islam'. Sayang, pada tahun 730 M Sriwijaya Jambi ditawan oleh Sriwijaya Palembang yang masih menganut Budha.[5]
+Islam terus mengokoh menjadi institusi politik yang mengemban Islam. Misalnya, sebuah kesultanan Islam bernama Kesultanan Peureulak didirikan pada 1 Muharram 225 H atau 12 November 839 M. Contoh lain adalah Kerajaan Ternate. Islam masuk ke kerajaan di kepulauan Maluku ini tahun 1440. Rajanya seorang Muslim bernama Bayanullah.
+
+Kesultanan Islam kemudian semikin menyebarkan ajaran-ajarannya ke penduduk dan melalui pembauran, menggantikan Hindu sebagai kepercayaan utama pada akhir abad ke-16 di Jawa dan Sumatera. Hanya Bali yang tetap mempertahankan mayoritas Hindu. Di kepulauan-kepulauan di timur, rohaniawan-rohaniawan Kristen dan Islam diketahui sudah aktif pada abad ke-16 dan 17, dan saat ini ada mayoritas yang besar dari kedua agama di kepulauan-kepulauan tersebut.
+Penyebaran Islam dilakukan melalui hubungan perdagangan di luar Nusantara; hal ini, karena para penyebar dakwah atau mubaligh merupakan utusan dari pemerintahan Islam yang datang dari luar Indonesia, maka untuk menghidupi diri dan keluarga mereka, para mubaligh ini bekerja melalui cara berdagang, para mubaligh inipun menyebarkan Islam kepada para pedagang dari penduduk asli, hingga para pedagang ini memeluk Islam dan meyebarkan pula ke penduduk lainnya, karena umumnya pedagang dan ahli kerajaan lah yang pertama mengadopsi agama baru tersebut. Kerajaan Islam penting termasuk di antaranya: Kerajaan Samudera Pasai, Kesultanan Banten yang menjalin hubungan diplomatik dengan negara-negara Eropa, Kerajaan Mataram, Kerajaan Iha, Kesultanan Ternate dan Kesultanan Tidore di Maluku
+"/>
+    </LinearLayout>
+
+</ScrollView>

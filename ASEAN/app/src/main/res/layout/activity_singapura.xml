@@ -1,9 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".singapura">
 
-</android.support.constraint.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sejarah negara singapura"
+            android:textAlignment="center"
+            android:textSize="40px"
+            android:paddingBottom="30dp"
+            android:paddingTop="30dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Singapura memainkan peranan yang kecil di dalam perkembangan sejarah Asia Tenggara sampai Sir Stamford Raffles mendirikan sebuah pelabuhan Inggris di situ. Di bawah pemerintahan kolonial Inggris, Singapura telah berubah menjadi pelabuhan yang amat strategis mengingat letaknya yang ada di tengah-tengah jalur perdagangan di antara India dan Cina yang akhirnya menjadi antara pelabuhan yang terpenting di dunia sampai hari ini. Semasa Perang Dunia II, Singapura telah diduduki oleh tentara Jepang dari tahun 1942 hingga tahun 1945.
+Selepas perang, penduduk setempat dibenarkan menjalankan pemerintahan sendiri tetapi masih belum mencapai kemerdekaan. Seterusnya pada tahun 1963 Singapura telah bergabung dengan Tanah Melayu bersama-sama dengan Sabah dan Sarawak untuk membentuk Malaysia. Tetapi Singapura dikeluarkan dari Malaysia dan menjadi sebuah republik pada 9 Agustus 1965.
+Pada masa silam sekitar abad ke 14, pulau Singapura merupakan sebagian dari kerajaan Sriwijaya dan dikenal sebagai Temasek ("Kota Laut").
+Dipercayai bahwa Singapura merupakan pusat pemerintahan kerajaan Melayu sebelum ia diduduki oleh Sir Stamford Raffles. Ini berdasarkan tulisan Abdullah bin Abdul Kadir Munsyi yang menyatakan ketika Singapura dibersihkan, bukit yang terdapat di situ telah dikenali sebagai bukit larangan, dan terdapat banyak pohon buah yang ditanam di situ. Ini menunjukkan terdapatnya pusat administrasi di situ.
+Selain daripada itu, Abdullah bin Abdul Kadir Munsyi turut menyatakan ditemukannya sebuah batu bersurat yang mempunyai ukiran tulisan yang tidak dikenali dan telah kabur. Prasasti Singapura itu menunjukkan Singapura telah menjadi sebuah pusat administrasi sejak silam lama sebelum tibanya pihak Inggris.
+Malangnya prasasti itu telah dimusnahkan tidak lama selepas tibanya Inggris oleh seorang insinyur Inggris. Bagaimanapun, terdapat nota mengenai sebuah salinan tulisan tersebut yang telah diantarkan ke London tetapi gagal ditafsirkan. Sekiranya catatan salinan tulisan itu dapat dijumpai kembali, ia bisa memberikan perkiraan kapan ia diukir melalui terjemahan ataupun sekiranya masih gagal diterjemahkan, melalui jenis tulisan yang digunakan.
+Pada tahun 1818, Sir Stamford Raffles telah dilantik menjadi gubernur di salah satu pelabuhan Inggris yaitu di Bengkulu, Sumatera. Raffles percaya bahwa Inggris perlu mencari jalan untuk menjadi penguasa dominan di rantau ini. Salah satu jalan ialah dengan membangun sebuah pelabuhan baru di Selat Melaka. Pelabuhan Inggris yang sudah ada seperti Pulau Pinang terlalu jauh dari Selat Melaka sedangkan Bengkulu menghadap Selat Sunda.
+Pada tahun 1818, ia telah berhasil menyakinkan East Indies Company (EIC) untuk mencari pelabuhan baru di rantau ini.
+Raffles tiba di Singapura pada 29 Januari 1819. Dia menjumpai sebuah perkampungan Melayu kecil di muara Sungai Singapura yang diketuai oleh seorang Temenggung Johor. Pulau itu dikelola oleh Kesultanan Johor tetapi keadaan politiknya tidak stabil. Pewaris Sultan Johor, Tengku Abdul Rahman dikuasai oleh Belanda dan Bugis. Raffles kemudian mengetahui bahwa Tengku Abdul Rahman menjadi sultan hanya karena kakandanya, Tengku Hussein tidak ada semasa ayahnya meninggal dunia. Menurut adat Melayu, calon sultan perlu berada di sisi sultan sekiranya ingin dilantik menjadi sultan.
+
+"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

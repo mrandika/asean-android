@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".brunei">
 
-</android.support.constraint.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sejarah negara brunei darussalam"
+            android:textAlignment="center"
+            android:textSize="40px"
+            android:paddingBottom="30dp"
+            android:paddingTop="30dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="	Para peneliti sejarah telah mempercayai terdapat sebuah kerajaan lain sebelum berdirinya Kesultanan Brunei kini, yang disebut orang Tiongkok sebagai Po-ni. Catatan orang Tiongkok dan orang Arab menunjukkan bahwa kerajaan perdagangan kuno ini ada di muara Sungai Brunei awal abad ke-7 atau ke-8. Kerajaan itu memiliki wilayah yang cukup luas meliputi Sabah, Brunei dan Sarawak yang berpusat di Brunei. Kesultanan Brunei juga merupakan pusat perdagangan dengan China. Kerajaan awal ini pernah ditaklukkan Kerajaan Sriwijaya yang berpusat di Sumatra pada awal abad ke-9 Masehi dan seterusnya menguasai Borneo utara dan gugusan kepulauan Filipina. Kerajaan ini juga pernah menjadi taklukan (vazal) Kerajaan Majapahit yang berpusat di pulau Jawa. Nama Brunai tercantum dalam Negarakertagama sebagai daerah bawahan Majapahit. Kekuasaan Majapahit tidaklah lama karena setelah Hayam Wuruk wafat Brunai membebaskan diri dan kembali sebagai sebuah negeri yang merdeka dan pusat perdagangan penting.
+            Pada awal abad ke-15, Kerajaan Malaka di bawah pemerintahan Parameswara telah menyebarkan pengaruhnya dan kemudian mengambil alih perdagangan Brunei. Perubahan ini menyebabkan agama Islam tersebar di wilayah Brunei oleh pedagangnya pada akhir abad ke-15. Kejatuhan Melaka ke tangan Portugis pada tahun 1511, telah menyebabkan Sultan Brunei mengambil alih kepimpinan Islam dari Melaka, sehingga Kesultanan Brunei mencapai zaman kegemilangannya dari abad ke-15 hinga abad ke-17 sewaktu memperluas kekuasaannya ke seluruh pulau Borneo dan ke Filipina di sebelah utaranya. Semasa pemerintahan Sultan Bolkiah (1473-1521) yang terkenal disebabkan pengembaraan baginda di laut, malah pernah seketika menaklukkan Manila. kesultanan Brunei memperluas pengaruhnya ke utara hingga ke Luzon dan Sulu serta di sebelah selatan dan barat Kalimantan; dan pada zaman pemerintahan sultan yang kesembilan, Hassan (1605-1619), yang membangun susunan aturan adat istiadat kerajaan dan istana yang masih kekal hingga hari ini.
+            Pada tahun 1658 Sultan Brunei menghadiahkan sedikit kawasan timur laut Kalimantan kepada Sultan Sulu di Filipina Selatan sebagai penghargaan terhadap Sultan Sulu dalam menyelesaikan perang saudara di antara Sultan Abdul Mubin dengan Sultan Mohyidin. Persengketaan dalam kerajaan Brunei merupakan satu faktor yang menyebabkan kejatuhan kerajaan tersebut, yang bersumber dari pergolakan dalam disebabkan perebutan kuasa antara ahli waris kerajaan, juga disebabkan timbulnya pengaruh kuasa penjajah Eropa di rantau sebelah sini, yang menggugat corak perdagangan tradisi, serta memusnahkan asas ekonomi Brunei dan kesultanan Asia Tenggara yang lain.
+            "/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>
